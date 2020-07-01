@@ -21,7 +21,7 @@ Tom Willow
 
 ## 效果图
 
-![](https://github.com/tomwillow/Repair-Civ4-BTS-XML-Load-Error/blob/master/build/效果.PNG)
+![](https://github.com/tomwillow/Repair-Civ4-BTS-XML-Load-Error/blob/master/build/snap.PNG)
 
 ## 参考
 
