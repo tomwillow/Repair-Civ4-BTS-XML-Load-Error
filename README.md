@@ -7,6 +7,10 @@
 ## 作者
 Tom Willow
 
+## 下载地址
+
+[文明4 刀剑之上 XML Load Error 修复程序 v0.1](https://github.com/tomwillow/Repair-Civ4-BTS-XML-Load-Error/releases/download/v0.1/Repair.Civ4.BTS.XML.Load.Error.v0.1.zip)
+
 ## 原理
 
 游戏内有些XML文件带有欧洲语言的特殊字符，例如德语的ü。
